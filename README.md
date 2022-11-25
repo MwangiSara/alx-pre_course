@@ -1,1 +1,1 @@
-My first readme
+My very first readme, ready to learn
